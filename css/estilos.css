@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.rojo{
+    background-color: #f07e7e;
+    min-height: 4vh;
+}
+.morao{
+    background-color: #a4ee8e;
+    min-height: 4vh;
+}
+.amarillo{
+    background-color: #fdfb7a;
+    min-height: 4vh;
+}
+.verde{
+    background-color: #81f564;
+    min-height: 4vh;
+}
+
+.gri{
+    background-color: #a7a6a0;
+    min-height: 10vh;
+}
+.blue{
+    background-color: #cf882a;
+    min-height: 10vh;
+}
+
+#gato{
+    max-height: 30vh;
+}
